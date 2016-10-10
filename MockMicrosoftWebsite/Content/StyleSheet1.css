@@ -1,10 +1,10 @@
 ﻿body {
     padding-top: 0px;
+    
 }
 /*Header*/
 img#logoImg{
-    margin: 0;
-    padding: 12px;
+    padding-top: 12px;
     list-style: none;
-    width:130px;
+    width:130px; 
 }
